@@ -1,0 +1,5 @@
+{
+  "name": "Copy of EPAL Galata Timetable",
+  "description": "A web application to view and manage the weekly timetable for EPAL Galata. Users can download the latest schedule, and an administrator can upload new versions.",
+  "requestFramePermissions": []
+}
